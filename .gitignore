@@ -22,3 +22,6 @@ go.work
 
 # Data files
 ports.csv
+
+# Binary
+portfriend
